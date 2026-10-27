@@ -4,6 +4,8 @@
 
 My master's thesis at Gdańsk University of Technology, 2024: a framework for designing VR safety training for industrial plants and rolling it out in a company. It grew out of my work on the Linde Virtual Academy at Linde Engineering and won the faculty's award for the best master's thesis of 2024.
 
+**[Open the 3-page portfolio (PDF)](https://majewski.studio/assets/xr-training-portfolio.pdf)** with the timeline, the survey numbers and the photos from ACHEMA.
+
 | Role | Setting | Methods | Years |
 |---|---|---|---|
 | Sole author, supervised by Prof. Edward Szczerbicki | M.Sc. in Management, Gdańsk University of Technology, written alongside my work at Linde Engineering | Literature review of 93 sources, case studies, a survey of 44 industry professionals, expert interviews | 2023 to 2024 |
@@ -56,7 +58,7 @@ It joins established learning theory with what the interviews and my own work sh
 
 ## What came out of it
 
-The main conclusion: VR works best as part of an existing training program, next to classroom and on-site training, especially where real practice is dangerous or expensive.
+The main conclusion: VR works best as part of an existing training programme, next to classroom and on-site training, especially where real practice is dangerous or expensive.
 
 In June 2024 I represented the academy at ACHEMA in Frankfurt, the main trade fair of the process industries. There I gave Saudi Arabia's Deputy Minister of Industry and Mineral Resources a one-to-one presentation of one of the trainings (the photo at the top) and presented the whole concept to the company's CEO. I defended the thesis in October 2024 and graduated with distinction. In March 2025 the Faculty of Management and Economics gave it the award for the best master's thesis of 2024.
 
