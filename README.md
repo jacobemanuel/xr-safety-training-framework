@@ -60,7 +60,7 @@ It joins established learning theory with what the interviews and my own work sh
 
 The main conclusion: VR works best as part of an existing training programme, next to classroom and on-site training, especially where real practice is dangerous or expensive.
 
-In June 2024 I represented the academy at ACHEMA in Frankfurt, the main trade fair of the process industries. There I gave Saudi Arabia's Deputy Minister of Industry and Mineral Resources a one-to-one presentation of one of the trainings (the photo at the top) and presented the whole concept to the company's CEO. I defended the thesis in October 2024 and graduated with distinction. In March 2025 the Faculty of Management and Economics gave it the award for the best master's thesis of 2024.
+In June 2024 I represented the academy at ACHEMA in Frankfurt, the main trade fair of the process industries. There I gave Saudi Arabia's Deputy Minister of Industry and Mineral Resources a one-to-one presentation of one of the trainings (the photo at the top) and presented the whole concept to the company's CEO. [Arab News reported](https://www.arabnews.com/node/2530456) the deputy minister's meetings at ACHEMA, with Linde among the companies. I defended the thesis in October 2024 and graduated with distinction. In March 2025 the Faculty of Management and Economics gave it the award for the best master's thesis of 2024 ([listed on the university's website](https://zie.pg.edu.pl/aktualnosci/2025-03/za-nami-uroczyste-posiedzenie-senatu-pg-z-okazji-promocji-akademickich) under Dyplom Roku).
 
 ## Limits
 
