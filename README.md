@@ -14,6 +14,8 @@ My master's thesis at Gdańsk University of Technology, 2024: a framework for de
 
 From October 2023 I worked in the product team behind the [Linde Virtual Academy](https://www.linde-engineering.com/products-and-services/success-stories/2024/the-benefits-of-virtual-training), Linde Engineering's library of VR trainings for operators of gas and chemical plants, from emergency response to routine procedures. My part was hands-on. I prepared and optimised CAD models for VR, first with Pixyz and later in Blender, tested every training on the headset and on PC, and wrote up reproducible issues for the development partner. I also set up headsets under corporate device management, built a usage-analytics view of how the trainings were used and gave demos to engineering teams, management and trade-fair visitors.
 
+Eleven of the trainings I worked on are published in the [Meta Quest store](https://www.meta.com/experiences/profile/9101055249993942/), along with [a free demo of the academy](https://www.meta.com/experiences/linde-virtual-academy-express/24635128052801851/) released in August 2024. Linde also has [a video about the academy](https://www.youtube.com/watch?v=JKOe9Ji8jdI).
+
 ![A plant scene from one of the Linde Virtual Academy trainings](media/vr-plant.jpg)
 
 *A plant scene from one of the trainings. Image: Linde Virtual Academy.*
